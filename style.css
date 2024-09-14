@@ -1,0 +1,13 @@
+* {
+    cursor: url(catfood.png),auto ;
+     user-select: none; 
+     -webkit-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+}
+
+.kittenImg {
+    width: 140px;
+    height: 140px;
+    transform: 0.2s;
+}
